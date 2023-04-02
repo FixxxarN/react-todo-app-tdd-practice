@@ -1,7 +1,12 @@
 # react-todo-app-tdd-practice
 
-### UX
-![todo-ux](./assets/todo-ux.png)
+<details>
+  <summary>Show UX</summary>
+
+  ![todo-ux](./assets/todo-ux.png)
+</details>
+ 
+<br>
 
 ### Research
 Localstorage will be used to save the todos in the browser. 
