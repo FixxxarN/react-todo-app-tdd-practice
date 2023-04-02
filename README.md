@@ -5,8 +5,6 @@
 
   ![todo-ux](./assets/todo-ux.png)
 </details>
- 
-<br>
 
 ### Research
 Localstorage will be used to save the todos in the browser. 
